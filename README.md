@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm a passionate frontend developer focused on bui
 
 Feel free to reach out if you have any questions or want to work together!
 
-- 💌 Email: [elgebaly.dev@gmail.com](mailto:elgebaly.dev@gmail.com)
+- 💌 Email: [mohammed.hussain.code@gmail.com](mailto:mohammed.hussain.code@gmail.com)
 - 💼 LinkedIn: [mohammed-hussein]( www.linkedin.com/in/mohammed-hussein-9503a7410)
 ---
 
