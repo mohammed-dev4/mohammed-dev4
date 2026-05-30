@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm a passionate frontend developer focused on bui
 Feel free to reach out if you have any questions or want to work together!
 
 - 💌 Email: [mohammed.hussain.code@gmail.com](mailto:mohammed.hussain.code@gmail.com)
-- 💼 LinkedIn: [mohammed-hussein](linkedin.com/in/mohammed-hussein-9503a7410)
+- 💼 LinkedIn: [mohammed-hussein](https://www.linkedin.com/in/mohammed-hussein-9503a7410/)
 ---
 
 
